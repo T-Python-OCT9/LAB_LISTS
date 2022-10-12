@@ -29,7 +29,7 @@ def odd():
     print()
 
 ### Q4: use list slicing to get a new list from the previous list starting from the start to the 5th element in the list.
-new_List = List_one[1:5]
+new_List = List_one[:5]
 sum1()
 largest()
 odd()
