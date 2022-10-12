@@ -6,10 +6,10 @@ list_1 = [2, 3, 4, 5, 15, 1, 43, 20]
 sum = sum (list_1)
 print (sum)
 ### Q2: Write a Python program to get the largest number from a list.
-def largest_fun (list_1):
-    print(max(list_1))
 
-largest_Value = largest_fun(list_1)
+largest= max(list_1)
+print(largest)
+
 
 ### Q3: Create an odd numbers list from the elements of a range from 1200 to 2000 with steps of 125, using list comprehension.
 
