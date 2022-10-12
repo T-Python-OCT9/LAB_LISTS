@@ -15,5 +15,5 @@ print(odd_list)
 
 
 # Q4: use list slicing to get a new list from the previous list starting from the start to the 5th element in the list.
-new_list = list1[1:5]
+new_list = list1[:5]
 print(new_list)
